@@ -1,4 +1,4 @@
-# Antarctic fracture Detection_With_U-Net
+# Antarctic fracture detection with U-Net
 
 Using neural networks to detect fracture patterns, in collaboration with Cameron Chen (Google), Jonathan Kingslake (Coulmbia University), and Pierre Gentine (Columbia University).
 
