@@ -1,6 +1,6 @@
-# Antarctic_fracture_detection_With_U-Net
+# Antarctic fracture Detection_With_U-Net
 
-Using neural networks to detect fracture patterns, in collaboration with Cameron Chen (data scientist at Google)
+Using neural networks to detect fracture patterns, in collaboration with Cameron Chen (Google), Pierre Gentine (Columbia University), and Jonathan Kingslake (Coulmbia University).
 
 ## File descriptions:
 Input images and the corresponding labeled images are in the format of .tif. The filenames of the labeled images ends with "_mask.tif". The imput image is a grey-valued image with one channel. labeled images contains only two grey values corresponding to two two classes (fracture: 255 and non fractutre: 0).
