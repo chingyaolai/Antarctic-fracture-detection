@@ -7,9 +7,11 @@ Input images and the corresponding labeled images are in the format of .tif. The
 
 data_trainset_20190717: training data
 
+data_tuneset_20190717: validation data
+
 data_testset_random_20190812: testing data
 
-data_ross: extra testing data
+data_ross: two extra images on the Ross ice shelf for visulization 
 
 Fracture_epoch50_LR1.4_D0.95_M0.2_example.ipynb: example code for training and testing UNet
 
