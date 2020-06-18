@@ -21,6 +21,6 @@ Input images and the corresponding labeled images are in the format of .tif. The
 
 #### Fig. 1. Locations of the training/validation/testing data and continent-wide fracture predictions
 ![Frac](https://github.com/chingyaolai/Antarctic-fracture-detection/blob/master/images/dataloc.PNG)
-
+<br/>
 #### Fig. 2. Model prediction
 <img src="https://github.com/chingyaolai/Antarctic-fracture-detection/blob/master/images/test.png" width="800">
