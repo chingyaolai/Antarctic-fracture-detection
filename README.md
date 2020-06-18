@@ -19,8 +19,8 @@ Input images and the corresponding labeled images are in the format of .tif. The
 - **Fracture_epoch50_LR1.4_D0.95_M0.2_example.ipynb**: example code for training and testing UNet
 
 
-### Fig. 1. Locations of the training/validation/testing data and continent-wide fracture predictions
+#### Fig. 1. Locations of the training/validation/testing data and continent-wide fracture predictions
 ![Frac](https://github.com/chingyaolai/Antarctic-fracture-detection/blob/master/images/dataloc.PNG)
 
-### Fig. 2. Model prediction
-<img src="https://github.com/chingyaolai/Antarctic-fracture-detection/blob/master/images/test.png" width="500">
+#### Fig. 2. Model prediction
+<img src="https://github.com/chingyaolai/Antarctic-fracture-detection/blob/master/images/test.png" width="800">
