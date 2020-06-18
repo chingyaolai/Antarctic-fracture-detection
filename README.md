@@ -20,4 +20,4 @@ Input images and the corresponding labeled images are in the format of .tif. The
 ### Fig. 1. Locations of the training/validation/testing data and continent-wide fracture predictions
 ![Frac](https://github.com/chingyaolai/Antarctic-fracture-detection/blob/master/images/dataloc.PNG)
 
-The [Tensorflow U-Net](https://tf-unet.readthedocs.io/en/latest/installation.html) implementation is available at [https://github.com/jakeret/tf_unet](https://github.com/jakeret/tf_unet) developed by Akeret et al. (2017). 
+The [Tensorflow U-Net](https://tf-unet.readthedocs.io/en/latest/installation.html) implementation is developed by Akeret et al. (2017) and available at [https://github.com/jakeret/tf_unet](https://github.com/jakeret/tf_unet). 
