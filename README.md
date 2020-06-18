@@ -15,3 +15,5 @@ data_testset_random_20190812: testing data
 data_ross: two extra images on the Ross ice shelf for visulization 
 
 Fracture_epoch50_LR1.4_D0.95_M0.2_example.ipynb: example code for training and testing UNet
+
+![Image of Yaktocat](https://github.com/chingyaolai/Antarctic-fracture-detection/blob/master/images/dataloc.PNG)
