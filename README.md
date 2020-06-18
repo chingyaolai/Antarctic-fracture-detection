@@ -3,7 +3,7 @@
 
 We use **U-Net** to detect fracture locations from satellite imagery across Antarctica (125m-resolution MOA imagery (2009); [https://doi.org/10.7265/N5KP8037](https://doi.org/10.7265/N5KP8037)). Ice fractures result in the collapse of Antartctica ice-shelves, which is expected to destabilize glacier flows into the ocean and accelerate glabal sea-level rise. We trained the U-Net with the labeled imagery, and applied the trained model to detect fracture across the Antarctic ice shelvse. In Fig. 1 the fracture/non-fracture locations are denoted white/black. 
 
-The [Tensorflow U-Net](https://tf-unet.readthedocs.io/en/latest/installation.html) implementation is developed by Akeret et al. (2017) and available at [https://github.com/jakeret/tf_unet](https://github.com/jakeret/tf_unet). 
+The [Tensorflow U-Net](https://tf-unet.readthedocs.io/en/latest/installation.html) implementation was developed by Akeret et al. (2017) and available at [https://github.com/jakeret/tf_unet](https://github.com/jakeret/tf_unet). 
 
 ## File descriptions:
 Input images and the corresponding labeled images are in the format of .tif. The filenames of the labeled images ends with "_mask.tif". The imput image is a grey-valued image with one channel. labeled images contains only two grey values corresponding to two two classes (fracture: 255 and non fractutre: 0).
