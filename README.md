@@ -14,7 +14,7 @@ Input images and the corresponding labeled images are in the format of .tif. The
 
 - **data_testset_random_20190812**: testing data (6 1000x1000 pixel tiles, shown in green in Fig. 1)
 
-- **data_ross**: two extra images on the Ross ice shelf for visulization 
+- **data_ross**: two extra images on the Ross ice shelf for visulization  (one tile with fracture one without, the prediction of the fracture image is shown in Fig. 2)
 
 - **Fracture_epoch50_LR1.4_D0.95_M0.2_example.ipynb**: example code for training and testing UNet
 
