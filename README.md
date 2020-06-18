@@ -22,4 +22,5 @@ Input images and the corresponding labeled images are in the format of .tif. The
 
 
 The U-Net implementation is available at [https://github.com/jakeret/tf_unet](https://github.com/jakeret/tf_unet)
-`<addr>`  git clone https://github.com/jakeret/tf_unet.git
+
+`<git clone https://github.com/jakeret/tf_unet.git>`
