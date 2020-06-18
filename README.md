@@ -22,7 +22,7 @@ Input images and the corresponding labeled images are in the format of .tif. The
 - **data_ross**: two extra images on the Ross ice shelf for visulization. One tile with fracture one without, the prediction of the fracture image is shown in Fig. 2.
 
 - **Fracture_epoch50_LR1.4_D0.95_M0.2_example.ipynb**: example code for training and testing UNet
-
+<br/>
 
 #### Fig. 2. Model prediction
 <img src="https://github.com/chingyaolai/Antarctic-fracture-detection/blob/master/images/test.png" width="800">
