@@ -5,6 +5,11 @@ We use **U-Net** to detect fracture locations from satellite imagery across Anta
 
 The [Tensorflow U-Net](https://tf-unet.readthedocs.io/en/latest/installation.html) implementation was developed by Akeret et al. (2017) and available at [https://github.com/jakeret/tf_unet](https://github.com/jakeret/tf_unet). 
 
+<br/>
+
+#### Fig. 1. Locations of the training/validation/testing data and continent-wide fracture predictions
+![Frac](https://github.com/chingyaolai/Antarctic-fracture-detection/blob/master/images/dataloc.PNG)
+
 ## File descriptions:
 Input images and the corresponding labeled images are in the format of .tif. The filenames of the labeled images ends with "_mask.tif". The imput image is a grey-valued image with one channel. labeled images contains only two grey values corresponding to two two classes (fracture: 255 and non fractutre: 0).
 
@@ -17,10 +22,6 @@ Input images and the corresponding labeled images are in the format of .tif. The
 - **data_ross**: two extra images on the Ross ice shelf for visulization. One tile with fracture one without, the prediction of the fracture image is shown in Fig. 2.
 
 - **Fracture_epoch50_LR1.4_D0.95_M0.2_example.ipynb**: example code for training and testing UNet
-<br/>
-
-#### Fig. 1. Locations of the training/validation/testing data and continent-wide fracture predictions
-![Frac](https://github.com/chingyaolai/Antarctic-fracture-detection/blob/master/images/dataloc.PNG)
 
 <br/>
 
