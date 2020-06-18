@@ -23,4 +23,5 @@ Input images and the corresponding labeled images are in the format of .tif. The
 ![Frac](https://github.com/chingyaolai/Antarctic-fracture-detection/blob/master/images/dataloc.PNG)
 
 ### Fig. 2. Model prediction
-![test](https://github.com/chingyaolai/Antarctic-fracture-detection/blob/master/images/test.png | width=48)
+![test](https://github.com/chingyaolai/Antarctic-fracture-detection/blob/master/images/test.png)
+<img src="https://github.com/chingyaolai/Antarctic-fracture-detection/blob/master/images/test.png" width="48">
