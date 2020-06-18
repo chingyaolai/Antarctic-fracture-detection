@@ -1,7 +1,7 @@
 # Antarctic fracture detection with U-Net
 [![DOI](https://zenodo.org/badge/259829938.svg)](https://zenodo.org/badge/latestdoi/259829938)
 
-We use U-Net to detect fracture locations from satellite imagery across Antarctica (125m-resolution MOA imagery (2009); [https://doi.org/10.7265/N5KP8037](https://doi.org/10.7265/N5KP8037)). Ice fractures result in the collapse of Antartctica ice-shelves, which is expected to destabilize glacier flows into the ocean and accelerate glabal sea-level rise. The outcome of this research will provide a thorough map of fracture distribution across Antarctica, which is important for evaluating the impact of ice fractures on the future sea-level.
+We use **U-Net** to detect fracture locations from satellite imagery across Antarctica (125m-resolution MOA imagery (2009); [https://doi.org/10.7265/N5KP8037](https://doi.org/10.7265/N5KP8037)). Ice fractures result in the collapse of Antartctica ice-shelves, which is expected to destabilize glacier flows into the ocean and accelerate glabal sea-level rise. The outcome of this research will provide a thorough map of fracture distribution across Antarctica, which is important for evaluating the impact of ice fractures on the future sea-level.
 
 ## File descriptions:
 Input images and the corresponding labeled images are in the format of .tif. The filenames of the labeled images ends with "_mask.tif". The imput image is a grey-valued image with one channel. labeled images contains only two grey values corresponding to two two classes (fracture: 255 and non fractutre: 0).
