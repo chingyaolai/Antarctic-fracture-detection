@@ -15,7 +15,7 @@ Input images and the corresponding labeled images are in the format of .tif. The
 
 - **data_trainset**: training data (26 1000x1000 pixel tiles, shown in blue in Fig. 1)
 
-- **data_tuneset**: validation data (6 1000x1000 pixel tiles, shown in red in Fig. 1)
+- **data_validset**: validation data (6 1000x1000 pixel tiles, shown in red in Fig. 1)
 
 - **data_testset**: testing data (6 1000x1000 pixel tiles, shown in green in Fig. 1)
 
