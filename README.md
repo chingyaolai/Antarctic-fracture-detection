@@ -13,8 +13,9 @@ The [Tensorflow U-Net](https://tf-unet.readthedocs.io/en/latest/installation.htm
 ## File descriptions:
 Input images and the corresponding labeled images are in the format of .tif. The filenames of the labeled images ends with "_mask.tif". The imput image is a grey-valued image with one channel. labeled images contains only two grey values corresponding to two two classes (fracture: 255 and non fractutre: 0).
 
-- **data_trainset**: training data (26 1000x1000 pixel tiles, shown in blue in Fig. 1)<div class="text-blue mb-2">
-  .text-blue on white</div>
+- **data_trainset**: training data (26 1000x1000 pixel tiles, shown in blue in Fig. 1)<div class="text-purple">
+  This text is purple, <a href="#" class="text-inherit">including the link</a>
+</div>
 
 - **data_validset**: validation data (6 1000x1000 pixel tiles, shown in red in Fig. 1)
 
