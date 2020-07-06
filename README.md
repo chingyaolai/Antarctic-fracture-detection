@@ -1,5 +1,6 @@
 # Antarctic fracture detection with U-Net
 [![DOI](https://zenodo.org/badge/259829938.svg)](https://zenodo.org/badge/latestdoi/259829938)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chingyaolai/Antarctic-fracture-detection/master)
 
 We use **U-Net** to detect fracture locations from satellite imagery across Antarctica (125m-resolution MOA imagery (2009); [https://doi.org/10.7265/N5KP8037](https://doi.org/10.7265/N5KP8037)). Ice fractures result in the collapse of Antartctica ice-shelves, which can accelerate glacier flows into the ocean. We trained the U-Net with the labeled imagery, and applied the trained model to detect fracture across the Antarctic ice shelvse. In Fig. 1 the fracture/non-fracture locations are marked in white/black. The neural-network predicted continent-wide fracture locations (Fig. 1) is available at https://doi.org/10.15784/601335.
 
