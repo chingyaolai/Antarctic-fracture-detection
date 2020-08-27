@@ -27,5 +27,5 @@ Input images and the corresponding labeled images are in the format of .tif. The
 #### Fig. 2. Model prediction
 <img src="https://github.com/chingyaolai/Antarctic-fracture-detection/blob/master/images/test.png" width="800">
 
-###Citation
+## Citation:
 C. Y. Lai, J. Kingslake, M. Wearing, P.-H. Cameron Chen, P. Gentine, H. Li, J. Spergel, J. M. van Wessem, “Vulnerability of Antarctica’s ice shelves to meltwater-driven fracture," Nature, 584, 574–578 (2020). [doi: 10.1038/s41586-020-2627-8](https://www.nature.com/articles/s41586-020-2627-8)
